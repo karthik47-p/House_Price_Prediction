@@ -1,10 +1,10 @@
 # House Price Prediction
+
 **Author:** P.N.Karthik
 
 ## Project Overview
 This project predicts house prices using machine learning.  
-
-It includes:  
+It includes: 
 - Data Analysis (EDA)  
 - Data preprocessing (handling missing values, encoding)  
 - Regression model training  
@@ -18,7 +18,8 @@ It includes:
 - Jupyter Notebook  
 
 ## How to Run
-1. Open CMD in this folder  
-2. (Optional) Activate virtual environment:  
+
+1. Clone this repository:
+
 ```bash
-venv\Scripts\activate
+git clone https://github.com/karthik47-p/House_Price_Prediction.git
